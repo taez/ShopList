@@ -8,6 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppMainController : UIViewController
+@interface AppMainController : UIViewController {
+    //버튼 좀 넣었습니다~
+    UIButton *btnButton;
+}
+
+@property (nonatomic, retain) IBOutlet UIButton *btnButton;
 
 @end
