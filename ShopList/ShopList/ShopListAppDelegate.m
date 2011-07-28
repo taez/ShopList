@@ -14,6 +14,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    [self.window setRootViewController:nil]; // 하안글
     // Override point for customization after application launch.
     [self.window makeKeyAndVisible];
     return YES;
