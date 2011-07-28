@@ -340,11 +340,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>29</integer>
+					<integer>28</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>28</integer>
+					<integer>29</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
@@ -363,8 +363,8 @@
 				</dict>
 			</array>
 		</dict>
-		<real>333550465.482225</real>
-		<string>{0, 678}</string>
+		<string>{18186, 592}</string>
+		<real>333551246.81329298</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -941,7 +941,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>333551094.540501</real>
+		<real>333551246.81306398</real>
 		<string>{0, 1132}</string>
 		<integer>0</integer>
 		<dict>
@@ -1065,7 +1065,7 @@
 				<integer>100</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList/Classes/AppMainController.m</string>
+		<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList.xcodeproj/project.xcworkspace/xcuserdata/taez77.xcuserdatad/UserInterfaceState.xcuserstate</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1101,7 +1101,7 @@
 				<integer>104</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList/ShopListAppDelegate.m</string>
+		<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList/Classes/AppMainController.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1119,7 +1119,7 @@
 				<integer>106</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList.xcodeproj/project.xcworkspace/xcuserdata/taez77.xcuserdatad/UserInterfaceState.xcuserstate</string>
+		<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList/ShopListAppDelegate.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2855,7 +2855,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>333551094.54135698</real>
+		<real>333551246.81463099</real>
 		<string>{0, 1132}</string>
 		<dict>
 			<key>$class</key>
