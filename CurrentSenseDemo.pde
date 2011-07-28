@@ -1,3 +1,8 @@
+아기다리고기다리
+
+
+
+
 /*
 AttoPilot Current and Voltage Sensing Demo
 N.Poole, Sparkfun Electronics, 2011
@@ -105,5 +110,6 @@ void backlightSerLcd(int thePercentage){  //turns on the backlight
   LCD.print(theValue, BYTE);    //light level.
   delay(50);  
 }
+
 
 
