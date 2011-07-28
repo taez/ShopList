@@ -1,0 +1,273 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		76EA1F1913E1925A00542C2C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76EA1F1813E1925A00542C2C /* UIKit.framework */; };
+		76EA1F1B13E1925A00542C2C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76EA1F1A13E1925A00542C2C /* Foundation.framework */; };
+		76EA1F1D13E1925A00542C2C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76EA1F1C13E1925A00542C2C /* CoreGraphics.framework */; };
+		76EA1F2313E1925A00542C2C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 76EA1F2113E1925A00542C2C /* InfoPlist.strings */; };
+		76EA1F2513E1925A00542C2C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 76EA1F2413E1925A00542C2C /* main.m */; };
+		76EA1F2913E1925A00542C2C /* ShopListAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76EA1F2813E1925A00542C2C /* ShopListAppDelegate.m */; };
+		76EA1F2C13E1925A00542C2C /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 76EA1F2A13E1925A00542C2C /* MainWindow.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		76EA1F1413E1925A00542C2C /* ShopList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShopList.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		76EA1F1813E1925A00542C2C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		76EA1F1A13E1925A00542C2C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		76EA1F1C13E1925A00542C2C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		76EA1F2013E1925A00542C2C /* ShopList-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ShopList-Info.plist"; sourceTree = "<group>"; };
+		76EA1F2213E1925A00542C2C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		76EA1F2413E1925A00542C2C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		76EA1F2613E1925A00542C2C /* ShopList-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ShopList-Prefix.pch"; sourceTree = "<group>"; };
+		76EA1F2713E1925A00542C2C /* ShopListAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ShopListAppDelegate.h; sourceTree = "<group>"; };
+		76EA1F2813E1925A00542C2C /* ShopListAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ShopListAppDelegate.m; sourceTree = "<group>"; };
+		76EA1F2B13E1925A00542C2C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		76EA1F1113E1925A00542C2C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				76EA1F1913E1925A00542C2C /* UIKit.framework in Frameworks */,
+				76EA1F1B13E1925A00542C2C /* Foundation.framework in Frameworks */,
+				76EA1F1D13E1925A00542C2C /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		76EA1F0913E1925900542C2C = {
+			isa = PBXGroup;
+			children = (
+				76EA1F1E13E1925A00542C2C /* ShopList */,
+				76EA1F1713E1925A00542C2C /* Frameworks */,
+				76EA1F1513E1925A00542C2C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		76EA1F1513E1925A00542C2C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				76EA1F1413E1925A00542C2C /* ShopList.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		76EA1F1713E1925A00542C2C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				76EA1F1813E1925A00542C2C /* UIKit.framework */,
+				76EA1F1A13E1925A00542C2C /* Foundation.framework */,
+				76EA1F1C13E1925A00542C2C /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		76EA1F1E13E1925A00542C2C /* ShopList */ = {
+			isa = PBXGroup;
+			children = (
+				76EA1F2713E1925A00542C2C /* ShopListAppDelegate.h */,
+				76EA1F2813E1925A00542C2C /* ShopListAppDelegate.m */,
+				76EA1F2A13E1925A00542C2C /* MainWindow.xib */,
+				76EA1F1F13E1925A00542C2C /* Supporting Files */,
+			);
+			path = ShopList;
+			sourceTree = "<group>";
+		};
+		76EA1F1F13E1925A00542C2C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				76EA1F2013E1925A00542C2C /* ShopList-Info.plist */,
+				76EA1F2113E1925A00542C2C /* InfoPlist.strings */,
+				76EA1F2413E1925A00542C2C /* main.m */,
+				76EA1F2613E1925A00542C2C /* ShopList-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		76EA1F1313E1925A00542C2C /* ShopList */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 76EA1F2F13E1925A00542C2C /* Build configuration list for PBXNativeTarget "ShopList" */;
+			buildPhases = (
+				76EA1F1013E1925A00542C2C /* Sources */,
+				76EA1F1113E1925A00542C2C /* Frameworks */,
+				76EA1F1213E1925A00542C2C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ShopList;
+			productName = ShopList;
+			productReference = 76EA1F1413E1925A00542C2C /* ShopList.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		76EA1F0B13E1925900542C2C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = "taez77@me.com";
+			};
+			buildConfigurationList = 76EA1F0E13E1925900542C2C /* Build configuration list for PBXProject "ShopList" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 76EA1F0913E1925900542C2C;
+			productRefGroup = 76EA1F1513E1925A00542C2C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				76EA1F1313E1925A00542C2C /* ShopList */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		76EA1F1213E1925A00542C2C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				76EA1F2313E1925A00542C2C /* InfoPlist.strings in Resources */,
+				76EA1F2C13E1925A00542C2C /* MainWindow.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		76EA1F1013E1925A00542C2C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				76EA1F2513E1925A00542C2C /* main.m in Sources */,
+				76EA1F2913E1925A00542C2C /* ShopListAppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		76EA1F2113E1925A00542C2C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				76EA1F2213E1925A00542C2C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		76EA1F2A13E1925A00542C2C /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				76EA1F2B13E1925A00542C2C /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		76EA1F2D13E1925A00542C2C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		76EA1F2E13E1925A00542C2C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		76EA1F3013E1925A00542C2C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ShopList/ShopList-Prefix.pch";
+				INFOPLIST_FILE = "ShopList/ShopList-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		76EA1F3113E1925A00542C2C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ShopList/ShopList-Prefix.pch";
+				INFOPLIST_FILE = "ShopList/ShopList-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		76EA1F0E13E1925900542C2C /* Build configuration list for PBXProject "ShopList" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				76EA1F2D13E1925A00542C2C /* Debug */,
+				76EA1F2E13E1925A00542C2C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		76EA1F2F13E1925A00542C2C /* Build configuration list for PBXNativeTarget "ShopList" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				76EA1F3013E1925A00542C2C /* Debug */,
+				76EA1F3113E1925A00542C2C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 76EA1F0B13E1925900542C2C /* Project object */;
+}
