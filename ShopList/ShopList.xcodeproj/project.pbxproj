@@ -14,8 +14,6 @@
 		76EA1F2513E1925A00542C2C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 76EA1F2413E1925A00542C2C /* main.m */; };
 		76EA1F2913E1925A00542C2C /* ShopListAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76EA1F2813E1925A00542C2C /* ShopListAppDelegate.m */; };
 		76EA1F2C13E1925A00542C2C /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 76EA1F2A13E1925A00542C2C /* MainWindow.xib */; };
-		8EEFBD1013E1934200E7CA4A /* MyListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EEFBD0E13E1934200E7CA4A /* MyListViewController.m */; };
-		8EEFBD1113E1934200E7CA4A /* MyListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8EEFBD0F13E1934200E7CA4A /* MyListViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,9 +28,6 @@
 		76EA1F2713E1925A00542C2C /* ShopListAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ShopListAppDelegate.h; sourceTree = "<group>"; };
 		76EA1F2813E1925A00542C2C /* ShopListAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ShopListAppDelegate.m; sourceTree = "<group>"; };
 		76EA1F2B13E1925A00542C2C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		8EEFBD0D13E1934200E7CA4A /* MyListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyListViewController.h; sourceTree = "<group>"; };
-		8EEFBD0E13E1934200E7CA4A /* MyListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyListViewController.m; sourceTree = "<group>"; };
-		8EEFBD0F13E1934200E7CA4A /* MyListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyListViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,7 +74,9 @@
 		76EA1F1E13E1925A00542C2C /* ShopList */ = {
 			isa = PBXGroup;
 			children = (
-				8EEFBD0B13E1931900E7CA4A /* MyListView */,
+				76EA1F3B13E195A900542C2C /* Classes */,
+				76EA1F3C13E195A900542C2C /* Extentions */,
+				76EA1F3D13E195A900542C2C /* Images */,
 				76EA1F2713E1925A00542C2C /* ShopListAppDelegate.h */,
 				76EA1F2813E1925A00542C2C /* ShopListAppDelegate.m */,
 				76EA1F2A13E1925A00542C2C /* MainWindow.xib */,
@@ -99,14 +96,25 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		8EEFBD0B13E1931900E7CA4A /* MyListView */ = {
+		76EA1F3B13E195A900542C2C /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				8EEFBD0D13E1934200E7CA4A /* MyListViewController.h */,
-				8EEFBD0E13E1934200E7CA4A /* MyListViewController.m */,
-				8EEFBD0F13E1934200E7CA4A /* MyListViewController.xib */,
 			);
-			name = MyListView;
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		76EA1F3C13E195A900542C2C /* Extentions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extentions;
+			sourceTree = "<group>";
+		};
+		76EA1F3D13E195A900542C2C /* Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -161,7 +169,6 @@
 			files = (
 				76EA1F2313E1925A00542C2C /* InfoPlist.strings in Resources */,
 				76EA1F2C13E1925A00542C2C /* MainWindow.xib in Resources */,
-				8EEFBD1113E1934200E7CA4A /* MyListViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -174,7 +181,6 @@
 			files = (
 				76EA1F2513E1925A00542C2C /* main.m in Sources */,
 				76EA1F2913E1925A00542C2C /* ShopListAppDelegate.m in Sources */,
-				8EEFBD1013E1934200E7CA4A /* MyListViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
