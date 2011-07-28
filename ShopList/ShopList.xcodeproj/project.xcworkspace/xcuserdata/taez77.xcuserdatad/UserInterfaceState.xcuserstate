@@ -280,7 +280,7 @@
 		<string>PrimaryDocumentTimestamp</string>
 		<string>PrimaryDocumentVisibleCharacterRange</string>
 		<string>{0, 0}</string>
-		<real>333550465.45588797</real>
+		<real>333550465.482225</real>
 		<string>{0, 678}</string>
 		<dict>
 			<key>$classes</key>
@@ -786,7 +786,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>333550465.45575398</real>
+		<real>333550471.08582503</real>
 		<string>{0, 1715}</string>
 		<string>{403, 0}</string>
 		<integer>0</integer>
@@ -2578,7 +2578,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>333550465.45657301</real>
+		<real>333550471.08652002</real>
 		<string>{0, 1715}</string>
 		<string>{403, 0}</string>
 		<string>-application:didFinishLaunchingWithOptions:</string>
