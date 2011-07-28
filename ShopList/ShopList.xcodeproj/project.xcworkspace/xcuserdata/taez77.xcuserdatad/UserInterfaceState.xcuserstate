@@ -786,9 +786,9 @@
 				</dict>
 			</array>
 		</dict>
-		<real>333550618.46465898</real>
+		<real>333550920.35872102</real>
 		<string>{0, 1715}</string>
-		<string>{403, 0}</string>
+		<string>{525, 0}</string>
 		<integer>0</integer>
 		<dict>
 			<key>$class</key>
@@ -821,8 +821,8 @@
 		</dict>
 		<string>IDEDeviceLocation</string>
 		<string>IDEDeviceArchitecture</string>
-		<string>dvtdevice-local-computer:localhost</string>
-		<string>x86_64</string>
+		<string>dvtdevice-iphonesimulator:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk-iPhone</string>
+		<string>i386</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2483,10 +2483,10 @@
 				</dict>
 			</array>
 		</dict>
-		<real>333550618.46579802</real>
+		<real>333550920.35949302</real>
 		<string>{0, 1715}</string>
-		<string>{403, 0}</string>
-		<string>-application:didFinishLaunchingWithOptions:</string>
+		<string>{525, 0}</string>
+		<string>@implementation ShopListAppDelegate</string>
 		<dict>
 			<key>$class</key>
 			<dict>
