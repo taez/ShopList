@@ -32,7 +32,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>127</integer>
+=======
+					<integer>110</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
@@ -95,6 +99,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>103</integer>
 				</dict>
 				<dict>
@@ -112,6 +117,25 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>113</integer>
+=======
+					<integer>88</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>89</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>94</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>97</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>98</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -166,7 +190,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>72</integer>
+=======
+					<integer>70</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
@@ -456,7 +484,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>71</integer>
+=======
+					<integer>69</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
@@ -591,7 +623,11 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>70</integer>
+=======
+				<integer>68</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 			<key>NS.objects</key>
 			<array>
@@ -605,7 +641,11 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>69</integer>
+=======
+				<integer>67</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 			<key>documentURL</key>
 			<dict>
@@ -646,16 +686,25 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>60</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>68</integer>
+=======
+					<integer>65</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>66</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
 		<string>Editor</string>
 		<string>Target</string>
+		<string>Xcode3TargetEditor</string>
 		<string>ShopList</string>
 		<dict>
 			<key>$classes</key>
@@ -697,6 +746,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>73</integer>
 				</dict>
 				<dict>
@@ -714,12 +764,24 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>81</integer>
+=======
+					<integer>71</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>73</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>75</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>83</integer>
 				</dict>
 				<dict>
@@ -737,6 +799,17 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>100</integer>
+=======
+					<integer>77</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>81</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>85</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
@@ -754,6 +827,7 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>74</integer>
 			</dict>
 		</dict>
@@ -781,6 +855,9 @@
 			<dict>
 				<key>CF$UID</key>
 				<integer>76</integer>
+=======
+				<integer>72</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 		</dict>
 		<dict>
@@ -790,7 +867,7 @@
 				<integer>22</integer>
 			</dict>
 			<key>NS.string</key>
-			<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList/Classes/AppMainController.h</string>
+			<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList/ShopListAppDelegate.h</string>
 		</dict>
 		<dict>
 			<key>$class</key>
@@ -806,7 +883,11 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>78</integer>
+=======
+				<integer>74</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 		</dict>
 		<dict>
@@ -832,7 +913,11 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>80</integer>
+=======
+				<integer>76</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 		</dict>
 		<dict>
@@ -842,7 +927,7 @@
 				<integer>22</integer>
 			</dict>
 			<key>NS.string</key>
-			<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList/ShopListAppDelegate.h</string>
+			<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList/Classes/AppMainController.m</string>
 		</dict>
 		<dict>
 			<key>$class</key>
@@ -880,6 +965,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>36</integer>
 				</dict>
 				<dict>
@@ -893,12 +979,28 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>35</integer>
+=======
+					<integer>29</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>28</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>78</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>27</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>85</integer>
 				</dict>
 				<dict>
@@ -930,6 +1032,9 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>36</integer>
+=======
+					<integer>79</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -937,6 +1042,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>84</integer>
 				</dict>
 				<dict>
@@ -956,10 +1062,13 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+=======
+>>>>>>> parent of 7a7ebad... 11111111 taez
 					<integer>14</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>91</integer>
 				</dict>
 			</array>
@@ -967,6 +1076,15 @@
 		<real>334156339.10633099</real>
 		<string>{0, 398}</string>
 		<string>{235, 0}</string>
+=======
+					<integer>30</integer>
+				</dict>
+			</array>
+		</dict>
+		<string>HideAllIssues</string>
+		<real>333550378.435063</real>
+		<string>{0, 295}</string>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -985,7 +1103,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>93</integer>
+=======
+					<integer>78</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -996,11 +1118,19 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>94</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>95</integer>
+=======
+					<integer>82</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>83</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -1008,11 +1138,14 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>96</integer>
+=======
+					<integer>84</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
-		<string>HideAllIssues</string>
 		<real>333551282.98205799</real>
 		<string>{0, 1715}</string>
 		<string>{525, 0}</string>
@@ -1034,7 +1167,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>93</integer>
+=======
+					<integer>78</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -1045,11 +1182,19 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>98</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>99</integer>
+=======
+					<integer>86</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>87</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -1061,8 +1206,14 @@
 				</dict>
 			</array>
 		</dict>
+<<<<<<< HEAD
 		<real>333550378.435063</real>
 		<string>{0, 295}</string>
+=======
+		<real>333551287.722426</real>
+		<string>{0, 1132}</string>
+		<integer>0</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1073,6 +1224,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>36</integer>
 				</dict>
 				<dict>
@@ -1086,12 +1238,20 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>35</integer>
+=======
+					<integer>90</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>91</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>101</integer>
 				</dict>
 				<dict>
@@ -1137,6 +1297,13 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>108</integer>
+=======
+					<integer>92</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>93</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
@@ -1154,14 +1321,22 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>110</integer>
+=======
+					<integer>95</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>111</integer>
+=======
+					<integer>96</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
@@ -1191,6 +1366,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>114</integer>
 				</dict>
 				<dict>
@@ -1216,6 +1392,29 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>126</integer>
+=======
+					<integer>99</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>101</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>103</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>105</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>107</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>109</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
@@ -1233,6 +1432,7 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>115</integer>
 			</dict>
 		</dict>
@@ -1252,6 +1452,9 @@
 			<dict>
 				<key>CF$UID</key>
 				<integer>117</integer>
+=======
+				<integer>100</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 		</dict>
 		<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList/Classes/AppMainController.h</string>
@@ -1269,7 +1472,11 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>119</integer>
+=======
+				<integer>102</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 		</dict>
 		<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList/Classes/AppMainController.m</string>
@@ -1287,7 +1494,11 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>121</integer>
+=======
+				<integer>104</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 		</dict>
 		<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList/ShopListAppDelegate.m</string>
@@ -1305,7 +1516,11 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>123</integer>
+=======
+				<integer>106</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 		</dict>
 		<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList.xcodeproj/project.pbxproj</string>
@@ -1323,7 +1538,11 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>125</integer>
+=======
+				<integer>108</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 		</dict>
 		<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList/ShopListAppDelegate.h</string>
@@ -1354,6 +1573,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>128</integer>
 				</dict>
 				<dict>
@@ -1383,12 +1603,44 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>135</integer>
+=======
+					<integer>111</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>112</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>113</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>114</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>115</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>116</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>117</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>118</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>136</integer>
 				</dict>
 				<dict>
@@ -1398,6 +1650,17 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>138</integer>
+=======
+					<integer>119</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>120</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>121</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -1409,11 +1672,19 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>130</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>203</integer>
+=======
+					<integer>113</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>130</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -1429,18 +1700,26 @@
 		<string>IDEActiveWorkspaceTabController</string>
 		<string>IDEWindowToolbarIsVisible</string>
 		<string>IDEWindowTabBarIsVisible</string>
-		<string>{{0, 61}, {1280, 717}}</string>
+		<string>{{0, 57}, {1280, 721}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>70</integer>
+=======
+				<integer>68</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>130</integer>
+=======
+					<integer>113</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
@@ -1454,6 +1733,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>139</integer>
 				</dict>
 				<dict>
@@ -1483,12 +1763,44 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>146</integer>
+=======
+					<integer>122</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>123</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>124</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>125</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>126</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>127</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>128</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>129</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>147</integer>
 				</dict>
 				<dict>
@@ -1510,6 +1822,29 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>242</integer>
+=======
+					<integer>88</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>130</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>131</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>132</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>138</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>156</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -1517,18 +1852,24 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>251</integer>
+=======
+					<integer>165</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
-		<string>IDEEditorArea</string>
-		<string>IDEShowNavigator</string>
 		<string>AssistantEditorsLayout</string>
+		<string>IDEShowNavigator</string>
+		<string>IDETabLabel</string>
 		<string>IDEWorkspaceTabControllerUtilityAreaSplitView</string>
 		<string>IDENavigatorArea</string>
 		<string>IDEWorkspaceTabControllerDesignAreaSplitView</string>
 		<string>IDEShowUtilities</string>
-		<string>IDETabLabel</string>
+		<string>IDEEditorArea</string>
+		<true/>
+		<string>AppMainController.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1539,14 +1880,36 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>148</integer>
+=======
+					<integer>46</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
+			</array>
+			<key>NS.objects</key>
+			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>149</integer>
+=======
+					<integer>133</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>56</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>150</integer>
 				</dict>
 				<dict>
@@ -1560,20 +1923,46 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>153</integer>
+=======
+					<integer>134</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
+					<integer>136</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>53</integer>
+			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>154</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>155</integer>
+=======
+					<integer>49</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>50</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>156</integer>
 				</dict>
 				<dict>
@@ -1599,13 +1988,17 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>212</integer>
+=======
+					<integer>51</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>14</integer>
+					<integer>135</integer>
 				</dict>
 			</array>
 		</dict>
+<<<<<<< HEAD
 		<string>layoutTree</string>
 		<string>IDEEDitorArea_DebugArea</string>
 		<string>IDEEditorMode_Standard</string>
@@ -1614,10 +2007,14 @@
 		<string>DebuggerSplitView</string>
 		<string>DefaultPersistentRepresentations</string>
 		<string>ShowDebuggerArea</string>
+=======
+		<real>421</real>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>161</integer>
 			</dict>
 			<key>geniusEditorContextNode</key>
@@ -1694,32 +2091,38 @@
 				<key>CF$UID</key>
 				<integer>70</integer>
 			</dict>
+=======
+				<integer>53</integer>
+			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>49</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>50</integer>
+				</dict>
+			</array>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>157</integer>
+=======
+					<integer>51</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>137</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
-		<dict>
-			<key>$classes</key>
-			<array>
-				<string>IDEWorkspaceTabControllerLayoutTreeNode</string>
-				<string>NSObject</string>
-			</array>
-			<key>$classname</key>
-			<string>IDEWorkspaceTabControllerLayoutTreeNode</string>
-		</dict>
-		<dict>
-			<key>$classes</key>
-			<array>
-				<string>IDEWorkspaceTabControllerLayoutTree</string>
-				<string>NSObject</string>
-			</array>
-			<key>$classname</key>
-			<string>IDEWorkspaceTabControllerLayoutTree</string>
-		</dict>
+		<real>224</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1730,6 +2133,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>163</integer>
 				</dict>
 				<dict>
@@ -1743,20 +2147,48 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>166</integer>
+=======
+					<integer>139</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>167</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>168</integer>
+					<integer>140</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>167</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>168</integer>
+=======
+					<integer>140</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>141</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+			</array>
+		</dict>
+		<string>SelectedNavigator</string>
+		<string>Xcode.IDEKit.Navigator.Structure</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>33</integer>
+			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>169</integer>
 				</dict>
 				<dict>
@@ -1778,77 +2210,76 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>185</integer>
+=======
+					<integer>142</integer>
 				</dict>
-			</array>
-		</dict>
-		<string>LayoutFocusMode</string>
-		<string>console</string>
-		<string>variables</string>
-		<string>LayoutMode</string>
-		<string>IDEDebuggerAreaSplitView</string>
-		<string>IDEDebugArea_SplitView</string>
-		<integer>1</integer>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>33</integer>
-			</dict>
-			<key>NS.keys</key>
-			<array>
 				<dict>
 					<key>CF$UID</key>
+					<integer>143</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>144</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>145</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>146</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>147</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>171</integer>
+=======
+					<integer>148</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>103</integer>
+=======
+					<integer>149</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
-			</array>
-		</dict>
-		<string>ConsoleFilterMode</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>33</integer>
-			</dict>
-			<key>NS.keys</key>
-			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>173</integer>
+=======
+					<integer>14</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
-			</array>
-			<key>NS.objects</key>
-			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>169</integer>
+=======
+					<integer>150</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
-			</array>
-		</dict>
-		<string>VariablesViewSelectedScope</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>33</integer>
-			</dict>
-			<key>NS.keys</key>
-			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>175</integer>
+=======
+					<integer>14</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
-			</array>
-			<key>NS.objects</key>
-			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>176</integer>
 				</dict>
 			</array>
@@ -1869,13 +2300,33 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>182</integer>
+=======
+					<integer>14</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>152</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>153</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
+		<string>IDEVisibleRect</string>
+		<string>IDEUnsavedDocumentFilteringEnabled</string>
+		<string>IDENavigatorExpandedItemsBeforeFilteringSet</string>
+		<string>IDERecentDocumentFilteringEnabled</string>
+		<string>IDESCMStatusFilteringEnabled</string>
+		<string>IDESelectedObjects</string>
+		<string>IDEExpandedItemsSet</string>
+		<string>{{0, 0}, {259, 601}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>56</integer>
 			</dict>
 			<key>NS.keys</key>
@@ -1889,8 +2340,17 @@
 					<integer>179</integer>
 				</dict>
 			</array>
+=======
+				<integer>151</integer>
+			</dict>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			<key>NS.objects</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>$classes</key>
 			<array>
+<<<<<<< HEAD
 				<dict>
 					<key>CF$UID</key>
 					<integer>180</integer>
@@ -1899,16 +2359,19 @@
 					<key>CF$UID</key>
 					<integer>181</integer>
 				</dict>
+=======
+				<string>NSSet</string>
+				<string>NSObject</string>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</array>
+			<key>$classname</key>
+			<string>NSSet</string>
 		</dict>
-		<string>DVTIdentifier</string>
-		<string>DVTViewMagnitude</string>
-		<string>VariablesView</string>
-		<real>510</real>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>56</integer>
 			</dict>
 			<key>NS.keys</key>
@@ -1933,45 +2396,69 @@
 					<integer>184</integer>
 				</dict>
 			</array>
+=======
+				<integer>68</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array/>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 		</dict>
-		<string>ConsoleArea</string>
-		<real>509</real>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+				<integer>151</integer>
+			</dict>
+<<<<<<< HEAD
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>175</integer>
+=======
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>154</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+			</array>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>186</integer>
+=======
+					<integer>155</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+			</array>
+		</dict>
+		<string>ShopList</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+<<<<<<< HEAD
+				<integer>59</integer>
+			</dict>
+=======
 				<integer>33</integer>
 			</dict>
 			<key>NS.keys</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>175</integer>
+					<integer>46</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>186</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>59</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>187</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>189</integer>
+					<integer>157</integer>
 				</dict>
 			</array>
 		</dict>
@@ -1981,21 +2468,125 @@
 				<key>CF$UID</key>
 				<integer>56</integer>
 			</dict>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>187</integer>
+=======
+					<integer>158</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>160</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>162</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>53</integer>
+			</dict>
 			<key>NS.keys</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>178</integer>
+					<integer>49</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>179</integer>
+					<integer>50</integer>
+				</dict>
+			</array>
+<<<<<<< HEAD
+		</dict>
+=======
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>126</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>159</integer>
+				</dict>
+			</array>
+		</dict>
+		<real>260</real>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+<<<<<<< HEAD
+				<integer>56</integer>
+=======
+				<integer>53</integer>
+			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>49</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>50</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+					<integer>129</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>161</integer>
+				</dict>
+			</array>
+		</dict>
+		<real>1020</real>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>53</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>178</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>179</integer>
+=======
+					<integer>49</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>50</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+			</array>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>180</integer>
 				</dict>
 				<dict>
@@ -2022,15 +2613,210 @@
 					<integer>179</integer>
 				</dict>
 			</array>
+=======
+					<integer>163</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>164</integer>
+				</dict>
+			</array>
+		</dict>
+		<string>IDEUtilitiesArea</string>
+		<real>260</real>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>33</integer>
+			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>166</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>167</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>168</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>169</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>170</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>171</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>172</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>173</integer>
+				</dict>
+			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+					<integer>174</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>195</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>221</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>130</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>88</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>253</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>261</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>14</integer>
+				</dict>
+			</array>
+		</dict>
+		<string>layoutTree</string>
+		<string>IDEEDitorArea_DebugArea</string>
+		<string>IDEEditorMode_Standard</string>
+		<string>IDEShowEditor</string>
+		<string>EditorMode</string>
+		<string>DebuggerSplitView</string>
+		<string>DefaultPersistentRepresentations</string>
+		<string>ShowDebuggerArea</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>194</integer>
+			</dict>
+			<key>geniusEditorContextNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>primaryEditorContextNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>175</integer>
+			</dict>
+			<key>rootLayoutTreeNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>191</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>193</integer>
+			</dict>
+			<key>children</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>contentType</key>
+			<integer>1</integer>
+			<key>documentArchivableRepresentation</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>176</integer>
+			</dict>
+			<key>orientation</key>
+			<integer>0</integer>
+			<key>parent</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>191</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>190</integer>
+			</dict>
+			<key>DocumentLocation</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>188</integer>
+			</dict>
+			<key>DomainIdentifier</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>177</integer>
+			</dict>
+			<key>IdentifierPath</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>178</integer>
+			</dict>
+			<key>IndexOfDocumentIdentifier</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<string>Xcode.IDENavigableItemDomain.WorkspaceStructure</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>68</integer>
+			</dict>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>183</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>190</integer>
+=======
+					<integer>179</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>182</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>184</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>186</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
@@ -2039,7 +2825,126 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>33</integer>
+=======
+				<integer>181</integer>
+			</dict>
+			<key>Identifier</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>180</integer>
+			</dict>
+		</dict>
+		<string>AppMainController.m</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>IDEArchivableStringIndexPair</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>IDEArchivableStringIndexPair</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>181</integer>
+			</dict>
+			<key>Identifier</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>183</integer>
+			</dict>
+		</dict>
+		<string>Classes</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>181</integer>
+			</dict>
+			<key>Identifier</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>185</integer>
+			</dict>
+		</dict>
+		<string>ShopList</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>181</integer>
+			</dict>
+			<key>Identifier</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>187</integer>
+			</dict>
+		</dict>
+		<string>ShopList</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>189</integer>
+			</dict>
+			<key>documentURL</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>76</integer>
+			</dict>
+			<key>timestamp</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>DVTDocumentLocation</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>DVTDocumentLocation</string>
+		</dict>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>IDENavigableItemArchivableRepresentation</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>IDENavigableItemArchivableRepresentation</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>193</integer>
+			</dict>
+			<key>children</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>192</integer>
+			</dict>
+			<key>contentType</key>
+			<integer>0</integer>
+			<key>documentArchivableRepresentation</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>orientation</key>
+			<integer>0</integer>
+			<key>parent</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 			<key>NS.keys</key>
 			<array>
@@ -2061,6 +2966,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>33</integer>
 			</dict>
 			<key>NS.keys</key>
@@ -2079,17 +2985,61 @@
 			</array>
 		</dict>
 		<string>Main</string>
+=======
+				<integer>68</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>175</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>IDEWorkspaceTabControllerLayoutTreeNode</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>IDEWorkspaceTabControllerLayoutTreeNode</string>
+		</dict>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>IDEWorkspaceTabControllerLayoutTree</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>IDEWorkspaceTabControllerLayoutTree</string>
+		</dict>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>56</integer>
+=======
+				<integer>33</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 			<key>NS.keys</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
 					<integer>196</integer>
+<<<<<<< HEAD
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>197</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>198</integer>
+=======
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2099,11 +3049,25 @@
 					<key>CF$UID</key>
 					<integer>198</integer>
 				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>199</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>200</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>201</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>199</integer>
 				</dict>
 				<dict>
@@ -2119,10 +3083,44 @@
 		<string>EditorLayout_StateSavingStateDictionaries</string>
 		<string>EditorLayout_Selected</string>
 		<string>EditorLayout_Geometry</string>
+=======
+					<integer>202</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>203</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>205</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>202</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>207</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>215</integer>
+				</dict>
+			</array>
+		</dict>
+		<string>LayoutFocusMode</string>
+		<string>console</string>
+		<string>variables</string>
+		<string>LayoutMode</string>
+		<string>IDEDebugArea_SplitView</string>
+		<string>IDEDebuggerAreaSplitView</string>
+		<integer>1</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>70</integer>
 			</dict>
 			<key>NS.objects</key>
@@ -2144,12 +3142,43 @@
 			<key>NS.objects</key>
 			<array/>
 		</dict>
+=======
+				<integer>33</integer>
+			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>204</integer>
+				</dict>
+			</array>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>88</integer>
+				</dict>
+			</array>
+		</dict>
+		<string>ConsoleFilterMode</string>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>70</integer>
+=======
+				<integer>33</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>206</integer>
+				</dict>
+			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
@@ -2158,8 +3187,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>{{0, 0}, {1020, 641}}</string>
-		<true/>
+		<string>VariablesViewSelectedScope</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2170,14 +3198,22 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>175</integer>
+=======
+					<integer>46</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>205</integer>
+=======
+					<integer>208</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
@@ -2191,11 +3227,19 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>206</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>209</integer>
+=======
+					<integer>209</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>212</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
@@ -2209,105 +3253,108 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>178</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>179</integer>
+=======
+					<integer>49</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>50</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>207</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>208</integer>
-				</dict>
-			</array>
-		</dict>
-		<string>IDEEditor</string>
-		<real>203</real>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>56</integer>
-			</dict>
-			<key>NS.keys</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>178</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>179</integer>
-				</dict>
-			</array>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
+=======
 					<integer>210</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>211</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
-		<string>IDEDebuggerArea</string>
-		<real>115</real>
+		<string>VariablesView</string>
+		<real>510</real>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>33</integer>
-			</dict>
-			<key>NS.keys</key>
-			<array/>
-			<key>NS.objects</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>33</integer>
+				<integer>56</integer>
 			</dict>
 			<key>NS.keys</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>175</integer>
+<<<<<<< HEAD
+					<integer>178</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>179</integer>
+=======
+					<integer>49</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>50</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>210</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>211</integer>
+=======
+					<integer>213</integer>
+				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>214</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
+		<string>ConsoleArea</string>
+		<real>509</real>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>59</integer>
+				<integer>33</integer>
 			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>46</integer>
+				</dict>
+			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>215</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>218</integer>
+					<integer>216</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2317,53 +3364,11 @@
 				<key>CF$UID</key>
 				<integer>56</integer>
 			</dict>
-			<key>NS.keys</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>178</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>179</integer>
-				</dict>
-			</array>
 			<key>NS.objects</key>
 			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>216</integer>
-				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>217</integer>
-				</dict>
-			</array>
-		</dict>
-		<string></string>
-		<real>417</real>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>56</integer>
-			</dict>
-			<key>NS.keys</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>178</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>179</integer>
-				</dict>
-			</array>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>216</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2371,13 +3376,213 @@
 				</dict>
 			</array>
 		</dict>
-		<real>224</real>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>53</integer>
+			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>175</integer>
+=======
+					<integer>49</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>50</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+			</array>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>214</integer>
+=======
+					<integer>210</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>218</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+			</array>
+		</dict>
+		<real>510</real>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+<<<<<<< HEAD
+				<integer>59</integer>
+=======
+				<integer>53</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>49</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>50</integer>
+				</dict>
+			</array>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>215</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>218</integer>
+=======
+					<integer>213</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>220</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+			</array>
+		</dict>
+		<real>509</real>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+<<<<<<< HEAD
+				<integer>56</integer>
+=======
+				<integer>33</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>178</integer>
+=======
+					<integer>222</integer>
+				</dict>
+			</array>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>223</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+			</array>
+		</dict>
+		<string>EditorLayout_PersistentRepresentation</string>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
 				<integer>33</integer>
 			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>179</integer>
+=======
+					<integer>224</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+			</array>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>216</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>217</integer>
+=======
+					<integer>225</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+			</array>
+		</dict>
+		<string>Main</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>56</integer>
+			</dict>
+			<key>NS.keys</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>178</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>179</integer>
+=======
+					<integer>226</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>227</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>228</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+			</array>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>216</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>219</integer>
+=======
+					<integer>229</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>88</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>251</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+			</array>
+		</dict>
+		<string>EditorLayout_StateSavingStateDictionaries</string>
+		<string>EditorLayout_Selected</string>
+		<string>EditorLayout_Geometry</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>68</integer>
+			</dict>
+<<<<<<< HEAD
 			<key>NS.keys</key>
 			<array>
 				<dict>
@@ -2389,20 +3594,24 @@
 					<integer>222</integer>
 				</dict>
 			</array>
+=======
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>222</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>223</integer>
+=======
+					<integer>230</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
-		<string>SelectedNavigator</string>
-		<string>Xcode.IDEKit.Navigator.Structure</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2413,6 +3622,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>224</integer>
 				</dict>
 				<dict>
@@ -2438,17 +3648,8 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>230</integer>
-				</dict>
-			</array>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
+=======
 					<integer>231</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>14</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2456,11 +3657,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>14</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>14</integer>
+					<integer>233</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2470,53 +3667,125 @@
 					<key>CF$UID</key>
 					<integer>235</integer>
 				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>236</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>237</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
 			</array>
-		</dict>
-		<string>IDEVisibleRect</string>
-		<string>IDEUnsavedDocumentFilteringEnabled</string>
-		<string>IDENavigatorExpandedItemsBeforeFilteringSet</string>
-		<string>IDERecentDocumentFilteringEnabled</string>
-		<string>IDESCMStatusFilteringEnabled</string>
-		<string>IDESelectedObjects</string>
-		<string>IDEExpandedItemsSet</string>
-		<string>{{0, 0}, {259, 597}}</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>233</integer>
-			</dict>
 			<key>NS.objects</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>$classes</key>
 			<array>
-				<string>NSSet</string>
-				<string>NSObject</string>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>231</integer>
+=======
+					<integer>238</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>239</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>232</integer>
+=======
+					<integer>246</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>180</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>180</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+<<<<<<< HEAD
+					<integer>234</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>235</integer>
+=======
+					<integer>18</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>249</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+				</dict>
 			</array>
-			<key>$classname</key>
-			<string>NSSet</string>
 		</dict>
+		<string>FileDataType</string>
+		<string>ArchivableRepresentation</string>
+		<string>EditorState</string>
+		<string>NavigableItemName</string>
+		<string>DocumentNavigableItemName</string>
+		<string>DocumentExtensionIdentifier</string>
+		<string>DocumentURL</string>
+		<string>public.objective-c-source</string>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
+				<integer>233</integer>
+=======
+				<integer>190</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+			</dict>
+			<key>DocumentLocation</key>
+			<dict>
+				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>70</integer>
 			</dict>
 			<key>NS.objects</key>
 			<array/>
+=======
+				<integer>188</integer>
+			</dict>
+			<key>DomainIdentifier</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>177</integer>
+			</dict>
+			<key>IdentifierPath</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>240</integer>
+			</dict>
+			<key>IndexOfDocumentIdentifier</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>88</integer>
+			</dict>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>233</integer>
+=======
+				<integer>68</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>236</integer>
 				</dict>
 				<dict>
@@ -2529,16 +3798,88 @@
 				</dict>
 			</array>
 		</dict>
+=======
+					<integer>241</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>242</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>243</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>244</integer>
+				</dict>
+			</array>
+		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>59</integer>
+				<integer>181</integer>
 			</dict>
-			<key>NS.objects</key>
+			<key>Identifier</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>180</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>181</integer>
+			</dict>
+			<key>Identifier</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>183</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>181</integer>
+			</dict>
+			<key>Identifier</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>185</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>181</integer>
+			</dict>
+			<key>Identifier</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>245</integer>
+			</dict>
+		</dict>
+		<string>ShopList</string>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+<<<<<<< HEAD
+				<integer>59</integer>
+=======
+				<integer>53</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
+			</dict>
+			<key>NS.keys</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>237</integer>
 				</dict>
 				<dict>
@@ -2560,32 +3901,94 @@
 				<key>CF$UID</key>
 				<integer>59</integer>
 			</dict>
+=======
+					<integer>29</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>28</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>78</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>27</integer>
+				</dict>
+			</array>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>237</integer>
+=======
+					<integer>247</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>248</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>14</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>30</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
+		<real>333551287.723445</real>
+		<string>{0, 1132}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>59</integer>
+=======
+				<integer>23</integer>
+			</dict>
+			<key>NS.base</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>NS.relative</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>250</integer>
+			</dict>
+		</dict>
+		<string>file://localhost/Users/taez77/github/ShopList/ShopList/ShopList/Classes/AppMainController.m</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>68</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 			</dict>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>237</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>238</integer>
+=======
+					<integer>252</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
+		<string>{{0, 0}, {1020, 645}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2596,14 +3999,22 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>175</integer>
+=======
+					<integer>46</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>243</integer>
+=======
+					<integer>254</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
@@ -2617,6 +4028,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>244</integer>
 				</dict>
 				<dict>
@@ -2626,6 +4038,13 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>248</integer>
+=======
+					<integer>255</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>258</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
@@ -2639,26 +4058,43 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>178</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>179</integer>
+=======
+					<integer>49</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>50</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>143</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>245</integer>
+=======
+					<integer>256</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>257</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
-		<real>260</real>
+		<string>IDEEditor</string>
+		<real>203</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2669,30 +4105,48 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>178</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>179</integer>
+=======
+					<integer>49</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>50</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
+<<<<<<< HEAD
 					<integer>139</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>247</integer>
+=======
+					<integer>259</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>260</integer>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 				</dict>
 			</array>
 		</dict>
-		<real>1020</real>
+		<string>IDEDebuggerArea</string>
+		<real>115</real>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+<<<<<<< HEAD
 				<integer>56</integer>
 			</dict>
 			<key>NS.keys</key>
@@ -2721,6 +4175,15 @@
 		<string>IDEUtilitiesArea</string>
 		<real>260</real>
 		<string>TViewController.m</string>
+=======
+				<integer>33</integer>
+			</dict>
+			<key>NS.keys</key>
+			<array/>
+			<key>NS.objects</key>
+			<array/>
+		</dict>
+>>>>>>> parent of 7a7ebad... 11111111 taez
 	</array>
 	<key>$top</key>
 	<dict>
