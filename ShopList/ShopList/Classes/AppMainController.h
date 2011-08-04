@@ -10,6 +10,7 @@
 
 @interface AppMainController : UIViewController {
     //버튼 좀 넣었습니다~
+    
     UIButton *btnButton;
 }
 
