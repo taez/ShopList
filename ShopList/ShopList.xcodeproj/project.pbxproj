@@ -16,6 +16,8 @@
 		76EA1F2C13E1925A00542C2C /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 76EA1F2A13E1925A00542C2C /* MainWindow.xib */; };
 		76EA1F4113E195EE00542C2C /* AppMainController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76EA1F3F13E195EE00542C2C /* AppMainController.m */; };
 		76EA1F4213E195EE00542C2C /* AppMainController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 76EA1F4013E195EE00542C2C /* AppMainController.xib */; };
+		C422F53C13EAD21200603EAE /* coanyaatestviewcontroller.m in Sources */ = {isa = PBXBuildFile; fileRef = C422F53A13EAD21200603EAE /* coanyaatestviewcontroller.m */; };
+		C422F53D13EAD21200603EAE /* coanyaatestviewcontroller.xib in Resources */ = {isa = PBXBuildFile; fileRef = C422F53B13EAD21200603EAE /* coanyaatestviewcontroller.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +35,9 @@
 		76EA1F3E13E195EE00542C2C /* AppMainController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppMainController.h; sourceTree = "<group>"; };
 		76EA1F3F13E195EE00542C2C /* AppMainController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppMainController.m; sourceTree = "<group>"; };
 		76EA1F4013E195EE00542C2C /* AppMainController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AppMainController.xib; sourceTree = "<group>"; };
+		C422F53913EAD21200603EAE /* coanyaatestviewcontroller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = coanyaatestviewcontroller.h; sourceTree = "<group>"; };
+		C422F53A13EAD21200603EAE /* coanyaatestviewcontroller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = coanyaatestviewcontroller.m; sourceTree = "<group>"; };
+		C422F53B13EAD21200603EAE /* coanyaatestviewcontroller.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = coanyaatestviewcontroller.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +112,9 @@
 				76EA1F3E13E195EE00542C2C /* AppMainController.h */,
 				76EA1F3F13E195EE00542C2C /* AppMainController.m */,
 				76EA1F4013E195EE00542C2C /* AppMainController.xib */,
+				C422F53913EAD21200603EAE /* coanyaatestviewcontroller.h */,
+				C422F53A13EAD21200603EAE /* coanyaatestviewcontroller.m */,
+				C422F53B13EAD21200603EAE /* coanyaatestviewcontroller.xib */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -178,6 +186,7 @@
 				76EA1F2313E1925A00542C2C /* InfoPlist.strings in Resources */,
 				76EA1F2C13E1925A00542C2C /* MainWindow.xib in Resources */,
 				76EA1F4213E195EE00542C2C /* AppMainController.xib in Resources */,
+				C422F53D13EAD21200603EAE /* coanyaatestviewcontroller.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -191,6 +200,7 @@
 				76EA1F2513E1925A00542C2C /* main.m in Sources */,
 				76EA1F2913E1925A00542C2C /* ShopListAppDelegate.m in Sources */,
 				76EA1F4113E195EE00542C2C /* AppMainController.m in Sources */,
+				C422F53C13EAD21200603EAE /* coanyaatestviewcontroller.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
